@@ -1,0 +1,26 @@
+{
+  "pages": {
+    "/provider/login": {
+      "announcements": {
+        "otpNotice": {
+          "enabled": true,
+          "message": "Mobile OTP services are temporarily unavailable for the next week."
+        }
+      },
+      "features": {
+        "mobileOtp": true
+      }
+    },
+    "/provider/dashboard": {
+      "announcements": {
+        "otpNotice": {
+          "enabled": true,
+          "message": "Mobile OTP services are temporarily unavailable for the next week."
+        }
+      },
+      "features": {
+        "mobileOtp": true
+      }
+    }
+  }
+}
