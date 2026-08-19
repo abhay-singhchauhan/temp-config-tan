@@ -3,8 +3,8 @@
     "/provider/login": {
       "announcements": {
         "otpNotice": {
-          "enabled": true,
-          "type": "information",
+          "enabled": false,
+          "type": "warning",
           "message": "Mobile OTP services are temporarily unavailable."
         }
       },
@@ -16,7 +16,7 @@
       "announcements": {
         "otpNotice": {
           "enabled": true,
-          "type": "information",
+          "type": "warning",    
           "message": "Mobile OTP services are temporarily unavailable."
         }
       },
