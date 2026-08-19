@@ -4,7 +4,7 @@
       "announcements": {
         "otpNotice": {
           "enabled": true,
-          "message": "Mobile OTP services are temporarily unavailable for the next week."
+          "message": "Mobile  services are temporarily unavailable for the next week."
         }
       },
       "features": {
@@ -15,7 +15,7 @@
       "announcements": {
         "otpNotice": {
           "enabled": true,
-          "message": "Mobile OTP services are temporarily unavailable for the next week."
+          "message": "Mobile  services are temporarily unavailable for the next week."
         }
       },
       "features": {
