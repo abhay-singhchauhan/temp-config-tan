@@ -4,7 +4,7 @@
       "announcements": {
         "otpNotice": {
           "enabled": true,
-          "type": "warning",
+          "type": "information",
           "message": "Mobile OTP services are temporarily unavailable."
         }
       },
@@ -16,7 +16,7 @@
       "announcements": {
         "otpNotice": {
           "enabled": true,
-          "type": "warning",
+          "type": "information",
           "message": "Mobile OTP services are temporarily unavailable."
         }
       },
