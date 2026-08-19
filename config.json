@@ -3,7 +3,7 @@
     "/provider/login": {
       "announcements": {
         "otpNotice": {
-          "enabled": false,
+          "enabled": true,
           "type": "warning",
           "message": "Mobile OTP services are temporarily unavailable."
         }
